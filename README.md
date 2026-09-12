@@ -24,6 +24,9 @@ The following are the best YouTube channels on IT and cybersecurity topics:
 
 [NetworkChuck](https://www.youtube.com/@NetworkChuck): Provides technology and information technology (IT) education content focused on career building, IT certifications, programming, cybersecurity, and hands-on labs.   
 
+[Chris Greer](https://www.youtube.com/@ChrisGreer): Provides content on how to use Wireshark for network traffic analysis.  
+
+
 
 **Career Strategy & Governance**  
 [Simply Cyber](https://www.youtube.com/@simplycyber): Hosted by Gerald Auger, PhD, brings Information security related content to enable people to have a rewarding cybersecurity career.  Focuses on career transitions, soft skills, and GRC (Governance, Risk, and Compliance).  
